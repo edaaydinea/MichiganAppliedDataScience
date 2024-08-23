@@ -69,10 +69,12 @@ Applied Social Network Analysis in Python
 * [Assignment](L1/assignments/course1_assignment3/assignment3.ipynb)
 
 **Week4:** Answering Questions with Messy Data
+  * [Basic Statistical Testing](L1/resources/course1/week-4/BasicStatisticalTesting.ipynb)
+  * [Assignment](L1/assignments/course1_assignment4/assignment4.ipynb)
 
 ## Certificates
 
-* **Course 1: Introduction to Data Science in Python**
+* [**Course 1: Introduction to Data Science in Python**](https://coursera.org/share/ea94290637a17750a5a54e226d3a8ce4)
 * **Course 2: Applied Plotting, Charting & Data Representation in Python**
 * **Course 3:Applied Machine Learning in Python**
 * **Course 4: Applied Text Mining in Python**
